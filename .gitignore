@@ -1,0 +1,15 @@
+# Binaries
+/ja4-guard
+/cmd/ja4-guard/ja4-guard
+*.exe
+*.test
+*.out
+
+# Go workspace
+go.work
+go.work.sum
+
+# Local certs / scratch
+*.pem
+*.crt
+*.key
